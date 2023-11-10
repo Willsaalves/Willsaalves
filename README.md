@@ -1,6 +1,7 @@
-## Falaaa, Willian aqui!
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Willsaalves/Willsaalves/blob/16cfb04fa26f5add148d6e0cce1cf02a485a4b76/DEV%20CAPA.png" />
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento backend usando Java, até me aventurar com frontend as vezes, sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor back-End pleno</strong></p>&nbsp;
+<p align="center">Eu amo resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento backend usando Java, até me aventurar com frontend às vezes, sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor back-End pleno</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Willsaalves&theme=radical&mode=weekly" />
